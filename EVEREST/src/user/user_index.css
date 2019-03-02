@@ -1,0 +1,28 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#mains{
+    width: 100%;
+    margin: 0px;
+}
+.l-cont{
+    width: 20%;
+    background-color: #172337;
+    height: 100%;
+}
+.r-cont{
+    width: 80%;
+    justify-content: center;
+}
+#header{
+    padding: 0px 30px 0px 30px;
+}
+.l-cont-d a{
+    width: 95%;
+    background-color: #172337;
+    margin: 30px 0px;
+    text-align: center;
+    outline: none;
+    
+}
